@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "595594269609",
+    "firebase_url": "https://inapp-messaging-5fc5e.firebaseio.com",
+    "project_id": "inapp-messaging-5fc5e",
+    "storage_bucket": "inapp-messaging-5fc5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595594269609:android:fd553fd1a55846df",
+        "android_client_info": {
+          "package_name": "ng.cloudware.inappmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595594269609-8hfj6s8sct1jfo1op8fndrbl6fn5isr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa38tUh_jwAFQ0-ci-HmsGDP7ikjayqvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
